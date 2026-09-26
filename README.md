@@ -1,7 +1,6 @@
 # Soft magnetic alloys — leakage-controlled ML and first-principles bounds
 
-Code, data and a curated set of VASP calculations behind the soft-magnet manuscript
-(v3). The repository holds two branches of the work:
+Code, data and a curated set of VASP calculations behind the soft-magnet manuscript. The repository holds two branches of the work:
 
 1. **A statistical branch.** Composition-grouped models for Curie temperature and
    coercivity, a split-conformal recipe generator, and the audit that shows why a
