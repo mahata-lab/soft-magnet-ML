@@ -1,0 +1,3 @@
+protocol,target,model,n_train,n_test,r2,mae,rmse,baseline_r2,baseline_mae,test_composition_overlap
+composition_grouped_refit,Curie(TC) (K),RF_regularized,1355,358,0.3272627734999093,129.77923571793468,203.8646239875364,-0.00015506608341153694,197.6478773011194,0
+composition_grouped_refit,Coercivity (Oe),ExtraTrees_regularized,1355,358,0.6399547999734192,0.596668613109136,0.8591526439091203,-0.0024312740278480405,1.1056206004548121,0

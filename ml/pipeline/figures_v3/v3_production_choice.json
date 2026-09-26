@@ -1,0 +1,15 @@
+{
+  "feature_set": "fractions",
+  "per_target_feature_set": {
+    "Curie(TC) (K)": "combined",
+    "Coercivity (Oe)": "fractions"
+  },
+  "models": {
+    "Curie(TC) (K)": "ExtraTrees",
+    "Coercivity (Oe)": "ExtraTrees"
+  },
+  "rule": "modal inner-validation winner across the 20 repeats",
+  "python": "3.11.15",
+  "sklearn": "1.8.0",
+  "xgboost": "3.2.0"
+}

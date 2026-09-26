@@ -1,0 +1,55 @@
+ running    1 mpi-ranks, on    1 nodes
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ Offloading initialized ...    1 GPUs detected
+ vasp.6.5.1 10Mar25 (build May 15 2026 23:14:27) complex                         
+ POSCAR found type information on POSCAR FeCo
+ POSCAR found :  2 types and       4 ions
+ scaLAPACK will be used selectively (only on CPU)
+ -----------------------------------------------------------------------------
+|                                                                             |
+|               ----> ADVICE to this user running VASP <----                  |
+|                                                                             |
+|     You have a (more or less) 'small supercell' and for smaller cells       |
+|     it is recommended to use the reciprocal-space projection scheme!        |
+|     The real-space optimization is not efficient for small cells and it     |
+|     is also less accurate ...                                               |
+|     Therefore, set LREAL=.FALSE. in the INCAR file.                         |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+ LDA part: xc-table for (Slater+PW92), standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ... GRIDC
+ FFT: planning ... GRID_SOFT
+ FFT: planning ... GRID
+ WAVECAR not read
+ WARNING: random wavefunctions but no delay for mixing, default for NELMDL
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.592145109656E+03    0.59215E+03   -0.27689E+04 12190   0.224E+03
+DAV:   2     0.127796054911E+02   -0.57937E+03   -0.55663E+03 11772   0.577E+02
+DAV:   3    -0.347611150699E+02   -0.47541E+02   -0.44957E+02 11939   0.177E+02
+DAV:   4    -0.359238367624E+02   -0.11627E+01   -0.11581E+01 12650   0.297E+01
+DAV:   5    -0.359663168231E+02   -0.42480E-01   -0.42477E-01 15258   0.537E+00    0.230E+01
+DAV:   6    -0.321061094175E+02    0.38602E+01   -0.40779E+01 12048   0.648E+01    0.150E+01
+DAV:   7    -0.353336210962E+02   -0.32275E+01   -0.28895E+01 14262   0.651E+01    0.235E+01
+DAV:   8    -0.312919223161E+02    0.40417E+01   -0.52156E+00 13769   0.427E+01    0.377E+00
+DAV:   9    -0.313478639543E+02   -0.55942E-01   -0.51798E-01 13287   0.480E+00    0.315E+00
+DAV:  10    -0.313833014899E+02   -0.35438E-01   -0.58606E-02 12769   0.241E+00    0.254E+00
+DAV:  11    -0.314103179352E+02   -0.27016E-01   -0.31197E-02 14322   0.177E+00    0.192E+00
+DAV:  12    -0.314111480074E+02   -0.83007E-03   -0.15683E-02 16431   0.118E+00    0.169E+00
+DAV:  13    -0.314182397765E+02   -0.70918E-02   -0.47582E-03 14441   0.964E-01    0.134E+00
+DAV:  14    -0.314213538451E+02   -0.31141E-02   -0.11423E-02 14070   0.134E+00    0.580E-01
+DAV:  15    -0.314205659550E+02    0.78789E-03   -0.59874E-03 13970   0.122E+00    0.658E-01
+DAV:  16    -0.314222286646E+02   -0.16627E-02   -0.34868E-03 13805   0.556E-01    0.174E-01
+DAV:  17    -0.314223729416E+02   -0.14428E-03   -0.37666E-04 13919   0.209E-01    0.660E-02
+DAV:  18    -0.314223631987E+02    0.97429E-05   -0.55062E-05 15750   0.107E-01    0.719E-02
+DAV:  19    -0.314223785195E+02   -0.15321E-04   -0.67581E-05 15651   0.792E-02    0.109E-02
+DAV:  20    -0.314223783858E+02    0.13374E-06   -0.50162E-06 10839   0.321E-02
+   1 F= -.31422378E+02 E0= -.31422327E+02  d E =-.154705E-03  mag=     9.1962
+Warning: ieee_invalid is signaling
+Warning: ieee_divide_by_zero is signaling
+Warning: ieee_underflow is signaling
+Warning: ieee_inexact is signaling
+FORTRAN STOP

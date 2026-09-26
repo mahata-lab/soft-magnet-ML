@@ -1,0 +1,21 @@
+run,cell,calculation,n_atoms,ENCUT_eV,EDIFF,electronic_convergence,clean_termination,vasp_errors,E0_eV,total_moment_muB
+Run_04_bccFe_vol_a2.866,bcc Fe,collinear volume point,2,520.0,0.1E-05,yes,yes,0,-16.52215225,4.4775028
+Run_08_bccFe_MAE_001,bcc Fe,MAE (noncollinear+SOC),2,520.0,0.1E-05,yes,yes,0,-16.55922777,4.4773793
+Run_09_bccFe_MAE_111,bcc Fe,MAE (noncollinear+SOC),2,520.0,0.1E-05,yes,yes,0,-16.55922701,4.4773793
+Run_10_bccFe_Jij_FeFe/state1_pp,bcc Fe,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-132.15331555,35.7202234
+Run_10_bccFe_Jij_FeFe/state2_pm,bcc Fe,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-132.15331612,35.7203913
+Run_10_bccFe_Jij_FeFe/state3_mp,bcc Fe,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-131.69635065,34.9441058
+Run_10_bccFe_Jij_FeFe/state4_mm,bcc Fe,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-131.81333324,33.9409612
+Run_14_B2FeCo_vol_a2.857,B2 FeCo,collinear volume point,2,520.0,0.1E-05,yes,yes,0,-15.43096504,4.5348303
+Run_21_B2FeCo_Jij_FeCo/state1_pp,B2 FeCo,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-123.43837876,36.2771954
+Run_21_B2FeCo_Jij_FeCo/state2_pm,B2 FeCo,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-123.43837947,36.2770665
+Run_21_B2FeCo_Jij_FeCo/state3_mp,B2 FeCo,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-122.17340372,33.3308786
+Run_21_B2FeCo_Jij_FeCo/state4_mm,B2 FeCo,four-state exchange,16,440.0,0.1E-05,yes,yes,0,-122.78801158,33.0432443
+Run_25_L12Fe3Co_vol_a3.580,L1_2 Fe3Co,collinear volume point,4,520.0,0.1E-05,yes,yes,0,-31.42232682,9.1985752
+Run_37_L12FeCo3_vol_a3.580,L1_2 FeCo3,collinear volume point,4,520.0,0.1E-05,yes,yes,0,-29.30258769,7.5245105
+Run_45_SQS_cand1_Fe46Co34Ni10Mn4Al2Si5_BCC,cand1_Fe46Co34Ni10Mn4Al2Si5_BCC,collinear volume point,54,520.0,0.1E-05,yes,yes,0,-401.32786000,100.8381937
+Run_46_SQS_cand1_Fe46Co34Ni10Mn4Al2Si5_FCC,cand1_Fe46Co34Ni10Mn4Al2Si5_FCC,collinear volume point,108,520.0,0.1E-05,yes,yes,0,-797.32545041,167.3673657
+Run_47_SQS_cand2_Fe38Co40Ni5Mn1Al1Si14_BCC,cand2_Fe38Co40Ni5Mn1Al1Si14_BCC,collinear volume point,54,520.0,0.1E-05,yes,yes,0,-395.93887263,91.0338400
+Run_48_SQS_cand2_Fe38Co40Ni5Mn1Al1Si14_FCC,cand2_Fe38Co40Ni5Mn1Al1Si14_FCC,collinear volume point,108,520.0,0.1E-05,yes,yes,0,-785.22619363,155.7474236
+Run_49_SQS_cand3_Fe26Co45Ni11Mn2Al4Si12_BCC,cand3_Fe26Co45Ni11Mn2Al4Si12_BCC,collinear volume point,54,520.0,0.1E-05,yes,yes,0,-376.61739837,77.0630027
+Run_50_SQS_cand3_Fe26Co45Ni11Mn2Al4Si12_FCC,cand3_Fe26Co45Ni11Mn2Al4Si12_FCC,collinear volume point,108,520.0,0.1E-05,yes,yes,0,-753.87684018,135.2279201

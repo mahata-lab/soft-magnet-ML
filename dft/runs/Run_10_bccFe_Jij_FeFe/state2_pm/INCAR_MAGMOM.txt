@@ -1,0 +1,6 @@
+For state state2_pm, set this in INCAR:
+    MAGMOM = +2.20 -2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20 +2.20
+
+The first two entries correspond to atoms 0 and 1 in the POSCAR,
+which are the flipped pair. All others stay at +2.20.
+

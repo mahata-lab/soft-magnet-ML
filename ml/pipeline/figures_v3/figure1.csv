@@ -1,0 +1,9 @@
+stage,kind,col,row,detail,note
+1. Compiled data,data,0,0,"33,916 source records|1,736 encoded, 1,713 retained|1,058 distinct compositions",duplicates and a zero-density record removed; magnetic-class labels excluded
+2. Descriptors,data,1,0,77 elemental fractions|146 weighted elemental statistics|mixing and mismatch terms,no processing or microstructure variable is available in the source file
+3. Leakage-controlled fit,data,2,0,"composition-grouped splits|20 repeats, nested selection of descriptor set and learner","the outer test never informs the choice of features, model or interval"
+4. Conformal calibration,data,3,0,90% split-conformal intervals from held-out compositions,"empirical coverage is measured, not assumed from tree spread"
+5. Static DFT,benchmark,0,1,"volume scans and moments for bcc Fe, B2 FeCo and the two L1$_2$ phases|three SQS candidate pairs",unequal candidate compositions prevent a phase-stability assignment
+6. Spin-orbit and exchange,benchmark,1,1,orientation energy differences|audited four-state exchange combinations,"sub-microelectronvolt values are numerical diagnostics, not converged $K_1$"
+7. Atomistic spin model,benchmark,2,1,seven VAMPIRE magnetization curves|threshold crossing temperatures,an equilibrium magnetization curve is not a coercivity calculation
+8. Recipe generator,output,3,1,"20,000 Fe-Co-Ni-Mn-Al-Si points|interval-robust pass and novelty gate|ranked recipe list","prioritized hypotheses, not validated soft magnetic materials"

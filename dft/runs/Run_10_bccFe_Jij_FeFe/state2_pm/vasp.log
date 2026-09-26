@@ -1,0 +1,133 @@
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:2620692] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:2620690] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:2620702] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:2620699] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:2620696] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:2620689] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:2620691] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:2620694] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+ running    8 mpi-ranks, on    1 nodes
+ distrk:  each k-point on    8 cores,    1 groups
+ distr:  one band on    4 cores,    2 groups
+ vasp.6.5.1 10Mar25 (build Jul 20 2026 11:14:49) complex                         
+ POSCAR found type information on POSCAR Fe
+ POSCAR found :  1 types and      16 ions
+ -----------------------------------------------------------------------------
+|                                                                             |
+|           W    W    AA    RRRRR   N    N  II  N    N   GGGG   !!!           |
+|           W    W   A  A   R    R  NN   N  II  NN   N  G    G  !!!           |
+|           W    W  A    A  R    R  N N  N  II  N N  N  G       !!!           |
+|           W WW W  AAAAAA  RRRRR   N  N N  II  N  N N  G  GGG   !            |
+|           WW  WW  A    A  R   R   N   NN  II  N   NN  G    G                |
+|           W    W  A    A  R    R  N    N  II  N    N   GGGG   !!!           |
+|                                                                             |
+|     You requested a magnetic or noncollinear calculation, but did not       |
+|     specify the initial magnetic moment with the MAGMOM tag. Note that      |
+|     a default of 1 will be used for all atoms. This ferromagnetic setup     |
+|     may break the symmetry of the crystal, in particular it may rule        |
+|     out finding an antiferromagnetic solution. Thence, we recommend         |
+|     setting the initial magnetic moment manually or verifying carefully     |
+|     that this magnetic setup is desired.                                    |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+ scaLAPACK will be used
+ LDA part: xc-table for (Slater+PW92), standard interpolation
+ -----------------------------------------------------------------------------
+|                                                                             |
+|           W    W    AA    RRRRR   N    N  II  N    N   GGGG   !!!           |
+|           W    W   A  A   R    R  NN   N  II  NN   N  G    G  !!!           |
+|           W    W  A    A  R    R  N N  N  II  N N  N  G       !!!           |
+|           W WW W  AAAAAA  RRRRR   N  N N  II  N  N N  G  GGG   !            |
+|           WW  WW  A    A  R   R   N   NN  II  N   NN  G    G                |
+|           W    W  A    A  R    R  N    N  II  N    N   GGGG   !!!           |
+|                                                                             |
+|     The distance between some ions is very small. Please check the          |
+|     nearest-neighbor list in the OUTCAR file.                               |
+|     I HOPE YOU KNOW WHAT YOU ARE DOING!                                     |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+ found WAVECAR, reading the header
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ... GRIDC
+ FFT: planning ... GRID_SOFT
+ FFT: planning ... GRID
+ reading WAVECAR
+ the WAVECAR file was read successfully
+ initial charge from wavefunction
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1    -0.252804554116E+05   -0.25280E+05   -0.35194E+05 96248   0.457E+00    0.115E+03
+RMM:   2     0.217823820176E+05    0.47063E+05    0.21735E+04 63175   0.166E+03    0.436E+02
+RMM:   3     0.232940756354E+05    0.15117E+04    0.64571E+03 92453   0.616E+02    0.292E+02
+RMM:   4     0.241312245381E+05    0.83715E+03   -0.35919E+02 99891   0.301E+02    0.881E+01
+RMM:   5     0.234915029753E+05   -0.63972E+03   -0.15116E+03 99959   0.226E+02    0.212E+01
+RMM:   6     0.232665475068E+05   -0.22496E+03   -0.30861E+02 99966   0.195E+02    0.127E+01
+RMM:   7     0.231477117851E+05   -0.11884E+03   -0.31406E+02 99968   0.181E+02    0.798E+00
+RMM:   8     0.231872203668E+05    0.39509E+02   -0.79014E+01 99946   0.173E+02    0.450E+00
+RMM:   9     0.231490741853E+05   -0.38146E+02   -0.22258E+02 99968   0.166E+02    0.358E+00
+RMM:  10     0.231393241777E+05   -0.97500E+01   -0.77664E+01 99968   0.161E+02    0.712E+00
+RMM:  11     0.231244315324E+05   -0.14893E+02   -0.16478E+02 99968   0.156E+02    0.963E+00
+RMM:  12     0.231286292347E+05    0.41977E+01   -0.70387E+01 99968   0.152E+02    0.109E+01
+RMM:  13     0.231167584734E+05   -0.11871E+02   -0.13610E+02 99968   0.149E+02    0.129E+01
+RMM:  14     0.231105009943E+05   -0.62575E+01   -0.68756E+01 99968   0.145E+02    0.157E+01
+RMM:  15     0.231004576978E+05   -0.10043E+02   -0.11216E+02 99968   0.142E+02    0.166E+01
+RMM:  16     0.230935459800E+05   -0.69117E+01   -0.63139E+01 99968   0.139E+02    0.195E+01
+RMM:  17     0.230899381381E+05   -0.36078E+01   -0.96236E+01 99968   0.137E+02    0.174E+01
+RMM:  18     0.230820746189E+05   -0.78635E+01   -0.59458E+01 99968   0.134E+02    0.172E+01
+WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3      8
+RMM:  19     0.230743140432E+05   -0.77606E+01   -0.81849E+01 99964   0.132E+02    0.180E+01
+RMM:  20     0.230692627225E+05   -0.50513E+01   -0.53879E+01 99968   0.129E+02
+ -----------------------------------------------------------------------------
+|                                                                             |
+|           W    W    AA    RRRRR   N    N  II  N    N   GGGG   !!!           |
+|           W    W   A  A   R    R  NN   N  II  NN   N  G    G  !!!           |
+|           W    W  A    A  R    R  N N  N  II  N N  N  G       !!!           |
+|           W WW W  AAAAAA  RRRRR   N  N N  II  N  N N  G  GGG   !            |
+|           WW  WW  A    A  R   R   N   NN  II  N   NN  G    G                |
+|           W    W  A    A  R    R  N    N  II  N    N   GGGG   !!!           |
+|                                                                             |
+|     The electronic self-consistency was not achieved in the given           |
+|     number of steps (NELM). The forces and other quantities evaluated       |
+|     might not be reliable so examine the results carefully. If you find     |
+|     spurious results, we suggest increasing NELM, if you were close to      |
+|     convergence or switching to a different ALGO or adjusting the           |
+|     density mixing parameters otherwise.                                    |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+   1 F= 0.23069263E+05 E0= 0.23069263E+05  d E =-.165716E-03  mag=    83.9036    83.9036    83.9036
+ writing wavefunctions

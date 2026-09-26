@@ -1,0 +1,114 @@
+material,parameter,value
+B2FeCo,material:num-materials,2
+B2FeCo,material[1]:material-name,Co
+B2FeCo,material[1]:damping-constant,1.0
+B2FeCo,material[1]:atomic-spin-moment,1.700 !muB
+B2FeCo,material[1]:uniaxial-anisotropy-constant,0.0
+B2FeCo,material[1]:unit-cell-category,1
+B2FeCo,material[2]:material-name,Fe
+B2FeCo,material[2]:damping-constant,1.0
+B2FeCo,material[2]:atomic-spin-moment,2.220 !muB
+B2FeCo,material[2]:uniaxial-anisotropy-constant,0.0
+B2FeCo,material[2]:unit-cell-category,2
+B2FeCo,material[1]:exchange-matrix-1st-nn[1],6.75e-21
+B2FeCo,material[1]:exchange-matrix-1st-nn[2],8.25e-21
+B2FeCo,material[2]:exchange-matrix-1st-nn[1],8.25e-21
+B2FeCo,material[2]:exchange-matrix-1st-nn[2],9.00e-21
+bccFe,material:num-materials,1
+bccFe,material[1]:material-name,Fe
+bccFe,material[1]:damping-constant,1.0
+bccFe,material[1]:atomic-spin-moment,2.220 !muB
+bccFe,material[1]:uniaxial-anisotropy-constant,0.0
+bccFe,material[1]:exchange-matrix-1st-nn[1],7.30e-21
+fccCo,material:num-materials,1
+fccCo,material[1]:material-name,Co
+fccCo,material[1]:damping-constant,1.0
+fccCo,material[1]:atomic-spin-moment,1.720 !muB
+fccCo,material[1]:uniaxial-anisotropy-constant,6.84e-24
+fccCo,material[1]:exchange-matrix-1st-nn[1],6.15e-21
+fccMn,material:num-materials,1
+fccMn,material[1]:material-name,Mn
+fccMn,material[1]:damping-constant,1.0
+fccMn,material[1]:atomic-spin-moment,4.000 !muB
+fccMn,material[1]:uniaxial-anisotropy-constant,0.0
+fccMn,material[1]:exchange-matrix-1st-nn[1],-1.50e-21
+fccNi,material:num-materials,1
+fccNi,material[1]:material-name,Ni
+fccNi,material[1]:damping-constant,1.0
+fccNi,material[1]:atomic-spin-moment,0.605 !muB
+fccNi,material[1]:uniaxial-anisotropy-constant,0.0
+fccNi,material[1]:exchange-matrix-1st-nn[1],2.80e-21
+L12Fe3Co,material:num-materials,4
+L12Fe3Co,material[1]:material-name,Co
+L12Fe3Co,material[1]:damping-constant,1.0
+L12Fe3Co,material[1]:atomic-spin-moment,1.700 !muB
+L12Fe3Co,material[1]:uniaxial-anisotropy-constant,0.0
+L12Fe3Co,material[1]:unit-cell-category,1
+L12Fe3Co,material[2]:material-name,Fe
+L12Fe3Co,material[2]:damping-constant,1.0
+L12Fe3Co,material[2]:atomic-spin-moment,2.220 !muB
+L12Fe3Co,material[2]:uniaxial-anisotropy-constant,0.0
+L12Fe3Co,material[2]:unit-cell-category,2
+L12Fe3Co,material[3]:material-name,Fe
+L12Fe3Co,material[3]:damping-constant,1.0
+L12Fe3Co,material[3]:atomic-spin-moment,2.220 !muB
+L12Fe3Co,material[3]:uniaxial-anisotropy-constant,0.0
+L12Fe3Co,material[3]:unit-cell-category,3
+L12Fe3Co,material[4]:material-name,Fe
+L12Fe3Co,material[4]:damping-constant,1.0
+L12Fe3Co,material[4]:atomic-spin-moment,2.220 !muB
+L12Fe3Co,material[4]:uniaxial-anisotropy-constant,0.0
+L12Fe3Co,material[4]:unit-cell-category,4
+L12Fe3Co,material[1]:exchange-matrix-1st-nn[1],4.38e-21
+L12Fe3Co,material[1]:exchange-matrix-1st-nn[2],5.36e-21
+L12Fe3Co,material[1]:exchange-matrix-1st-nn[3],5.36e-21
+L12Fe3Co,material[1]:exchange-matrix-1st-nn[4],5.36e-21
+L12Fe3Co,material[2]:exchange-matrix-1st-nn[1],5.36e-21
+L12Fe3Co,material[2]:exchange-matrix-1st-nn[2],5.85e-21
+L12Fe3Co,material[2]:exchange-matrix-1st-nn[3],5.85e-21
+L12Fe3Co,material[2]:exchange-matrix-1st-nn[4],5.85e-21
+L12Fe3Co,material[3]:exchange-matrix-1st-nn[1],5.36e-21
+L12Fe3Co,material[3]:exchange-matrix-1st-nn[2],5.85e-21
+L12Fe3Co,material[3]:exchange-matrix-1st-nn[3],5.85e-21
+L12Fe3Co,material[3]:exchange-matrix-1st-nn[4],5.85e-21
+L12Fe3Co,material[4]:exchange-matrix-1st-nn[1],5.36e-21
+L12Fe3Co,material[4]:exchange-matrix-1st-nn[2],5.85e-21
+L12Fe3Co,material[4]:exchange-matrix-1st-nn[3],5.85e-21
+L12Fe3Co,material[4]:exchange-matrix-1st-nn[4],5.85e-21
+L12FeCo3,material:num-materials,4
+L12FeCo3,material[1]:material-name,Fe
+L12FeCo3,material[1]:damping-constant,1.0
+L12FeCo3,material[1]:atomic-spin-moment,2.220 !muB
+L12FeCo3,material[1]:uniaxial-anisotropy-constant,0.0
+L12FeCo3,material[1]:unit-cell-category,1
+L12FeCo3,material[2]:material-name,Co
+L12FeCo3,material[2]:damping-constant,1.0
+L12FeCo3,material[2]:atomic-spin-moment,1.700 !muB
+L12FeCo3,material[2]:uniaxial-anisotropy-constant,0.0
+L12FeCo3,material[2]:unit-cell-category,2
+L12FeCo3,material[3]:material-name,Co
+L12FeCo3,material[3]:damping-constant,1.0
+L12FeCo3,material[3]:atomic-spin-moment,1.700 !muB
+L12FeCo3,material[3]:uniaxial-anisotropy-constant,0.0
+L12FeCo3,material[3]:unit-cell-category,3
+L12FeCo3,material[4]:material-name,Co
+L12FeCo3,material[4]:damping-constant,1.0
+L12FeCo3,material[4]:atomic-spin-moment,1.700 !muB
+L12FeCo3,material[4]:uniaxial-anisotropy-constant,0.0
+L12FeCo3,material[4]:unit-cell-category,4
+L12FeCo3,material[1]:exchange-matrix-1st-nn[1],5.85e-21
+L12FeCo3,material[1]:exchange-matrix-1st-nn[2],5.36e-21
+L12FeCo3,material[1]:exchange-matrix-1st-nn[3],5.36e-21
+L12FeCo3,material[1]:exchange-matrix-1st-nn[4],5.36e-21
+L12FeCo3,material[2]:exchange-matrix-1st-nn[1],5.36e-21
+L12FeCo3,material[2]:exchange-matrix-1st-nn[2],4.38e-21
+L12FeCo3,material[2]:exchange-matrix-1st-nn[3],4.38e-21
+L12FeCo3,material[2]:exchange-matrix-1st-nn[4],4.38e-21
+L12FeCo3,material[3]:exchange-matrix-1st-nn[1],5.36e-21
+L12FeCo3,material[3]:exchange-matrix-1st-nn[2],4.38e-21
+L12FeCo3,material[3]:exchange-matrix-1st-nn[3],4.38e-21
+L12FeCo3,material[3]:exchange-matrix-1st-nn[4],4.38e-21
+L12FeCo3,material[4]:exchange-matrix-1st-nn[1],5.36e-21
+L12FeCo3,material[4]:exchange-matrix-1st-nn[2],4.38e-21
+L12FeCo3,material[4]:exchange-matrix-1st-nn[3],4.38e-21
+L12FeCo3,material[4]:exchange-matrix-1st-nn[4],4.38e-21

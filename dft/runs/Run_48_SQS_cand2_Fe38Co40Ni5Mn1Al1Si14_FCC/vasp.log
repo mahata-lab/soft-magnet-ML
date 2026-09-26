@@ -1,0 +1,14 @@
+ running    1 mpi-ranks, on    1 nodes
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ vasp.6.5.1 10Mar25 (build May 15 2026 23:14:27) complex                         
+ POSCAR found type information on POSCAR FeCoNiMnAlSi
+ POSCAR found :  6 types and     108 ions
+ scaLAPACK will be used selectively (only on CPU)
+ LDA part: xc-table for (Slater+PW92), standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ... GRIDC
+ FFT: planning ... GRID_SOFT
+ FFT: planning ... GRID
+ WAVECAR not read
+ WARNING: random wavefunctions but no delay for mixing, default for NELMDL

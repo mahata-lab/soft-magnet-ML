@@ -1,0 +1,43 @@
+SYSTEM        = bcc Fe - Jij State 1
+PREC          = Accurate
+ENCUT         = 440
+EDIFF         = 1E-6
+NELM          = 200
+ALGO          = Normal
+LREAL         = .FALSE.
+ISYM          = 0
+
+# Static Calculation (DO NOT RELAX IONS FOR J_ij MAPPING)
+IBRION        = -1
+NSW           = 0
+
+# Electronic / Non-collinear Setup
+LNONCOLLINEAR = .TRUE.
+ISTART        = 0
+ICHARG        = 2
+MAGMOM = 2.30 0 0  0 0 2.30  0 0 2.30  0 0 2.30  0 0 2.30  0 0 2.30  0 0 2.30  0 0 2.30  0 0 1.70  0 0 1.70  0 0 1.70  0 0 1.70  0 0 1.70  0 0 1.70  0 0 1.70  0 0 1.70
+
+# Magnetic Constraints (Direction vectors: 0 0 1 per atom)
+I_CONSTRAINED_M = 1
+M_CONSTR = 1 0 0  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1  0 0 1
+LAMBDA          = 10         # Penalty weight
+RWIGS           = 16*1.3
+
+# PAW / Density Mixer Controls
+LMAXMIX       = 4
+LASPH         = .TRUE.
+LORBIT        = 11
+ISMEAR        = 1
+SIGMA         = 0.2
+
+# Mixing Controls (Stable for Non-Collinear Runs)
+AMIX          = 0.2
+BMIX          = 0.0001
+AMIX_MAG      = 0.8
+BMIX_MAG      = 0.0001
+
+# Output
+LWAVE         = .FALSE.
+LCHARG        = .FALSE.
+
+NCORE = 2

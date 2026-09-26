@@ -1,0 +1,5 @@
+stage,n,note
+Generated candidates,20000,Dirichlet design over six elements
+Point-prediction pass,31,$T_C>1000$ K and $H_c<100$ Oe
+Interval-robust pass,0,90% interval entirely inside the target
+Supported recipes,0,and not far extrapolation

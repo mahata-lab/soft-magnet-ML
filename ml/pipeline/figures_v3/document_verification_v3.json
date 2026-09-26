@@ -1,0 +1,14 @@
+{
+  "output": "/home/claude/v3/soft-magnet-paper-v3.docx",
+  "source_sha256": "85cd658e502107c849605aa012b04db13594ed951cd56fefefee58c19dc4ddca",
+  "source_unchanged": true,
+  "zotero_instruction_nodes": 67,
+  "zotero_instruction_content_identical": true,
+  "original_citation_fields_preserved": 30,
+  "zotero_custom_properties_byte_identical": true,
+  "bibliography_cached_text_preserved": true,
+  "native_math_objects": 11,
+  "embedded_images": 10,
+  "additional_references": 13,
+  "word_count": 10012
+}

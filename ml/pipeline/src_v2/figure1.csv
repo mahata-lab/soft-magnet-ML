@@ -1,0 +1,7 @@
+stage,data,method,column,row
+Literature data,"1,736 encoded records",Deduplicate and check units,0,0
+ML evaluation,"1,713 records; 1,058 compositions",Fixed models; composition grouping,1,0
+Screening,"1,000 Fe–Co–Ni–Mn–Al–Si points",32 point-threshold hits; hypotheses,2,0
+DFT benchmarks,"Existing volume, SOC and spin-state outputs","Check atoms, spin states and convergence",0,1
+Spin benchmarks,Seven existing VAMPIRE curves,Recover inputs and transition proxies,1,1
+Interpretation,Composition priorities and validation limits,No claim of validated coercivity,2,1

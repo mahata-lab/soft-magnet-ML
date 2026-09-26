@@ -1,0 +1,8 @@
+material,n_temperatures,T_min_K,T_max_K,max_slope_temperature_K,m_at_1500,first_m_le_0.5_K,first_m_le_0.2_K,first_m_le_0.1_K,atoms,complete,composition_log
+B2FeCo,301,0.0,1500.0,1265.0,0.0325149,1100.0,1245.0,1245.0,4394.0,True,Material 1 Co makes up 50 % of all atoms ( 2197 atoms ) | Material 2 Fe makes up 50 % of all atoms ( 2197 atoms )
+bccFe,301,0.0,1500.0,1105.0,0.0344482,940.0,1095.0,1110.0,4394.0,True,Material 1 Fe makes up 100 % of all atoms ( 4394 atoms )
+fccCo,301,0.0,1500.0,1405.0,0.0946445,1220.0,1410.0,1410.0,8788.0,True,Material 1 Co makes up 100 % of all atoms ( 8788 atoms )
+fccMn,251,0.0,500.0,386.0,0.00954219,0.0,0.0,0.0,8788.0,True,Material 1 Mn makes up 100 % of all atoms ( 8788 atoms )
+fccNi,201,0.0,1000.0,650.0,0.0207934,560.0,650.0,655.0,8788.0,True,Material 1 Ni makes up 100 % of all atoms ( 8788 atoms )
+L12Fe3Co,361,0.0,1800.0,1315.0,0.0139477,1135.0,1305.0,1320.0,8788.0,True,Material 1 Co makes up 25 % of all atoms ( 2197 atoms ) | Material 2 Fe makes up 25 % of all atoms ( 2197 atoms ) | Material 3 Fe makes up 25 % of all atoms ( 2197 atoms ) | Material 4 Fe makes up 25 % of all atoms ( 2197 atoms )
+L12FeCo3,361,0.0,1800.0,1105.0,0.0103076,995.0,1110.0,1145.0,8788.0,True,Material 1 Fe makes up 25 % of all atoms ( 2197 atoms ) | Material 2 Co makes up 25 % of all atoms ( 2197 atoms ) | Material 3 Co makes up 25 % of all atoms ( 2197 atoms ) | Material 4 Co makes up 25 % of all atoms ( 2197 atoms )

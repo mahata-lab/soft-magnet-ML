@@ -1,0 +1,60 @@
+VASP run index for soft-magnet ML cross-validation
+============================================================
+
+This directory contains POSCAR files and README notes for all
+non-SQS DFT runs in the plan. Cells covered:
+  - bcc Fe (benchmark)
+  - B2 FeCo
+  - L1_2 Fe3Co (Fe-rich analog)
+  - L1_2 FeCo3 (Co-rich analog)
+
+Solid-solution cells (random Fe-Co-Ni-Mn-Al-Si compositions)
+are NOT generated here. Those require SQS and are handled by
+a separate script in the next phase.
+
+------------------------------------------------------------
+
+  Run_01_bccFe_vol_a2.750                           bcc Fe volume scan a=2.750 A
+  Run_02_bccFe_vol_a2.800                           bcc Fe volume scan a=2.800 A
+  Run_03_bccFe_vol_a2.830                           bcc Fe volume scan a=2.830 A
+  Run_04_bccFe_vol_a2.866                           bcc Fe volume scan a=2.866 A
+  Run_05_bccFe_vol_a2.900                           bcc Fe volume scan a=2.900 A
+  Run_06_bccFe_vol_a2.930                           bcc Fe volume scan a=2.930 A
+  Run_07_bccFe_vol_a2.950                           bcc Fe volume scan a=2.950 A
+  Run_08_bccFe_MAE_001                              bcc Fe MAE M||[001]
+  Run_09_bccFe_MAE_111                              bcc Fe MAE M||[111]
+  Run_10_bccFe_Jij_FeFe                             bcc Fe four-state Jij (4 subfolders)
+  Run_11_B2FeCo_vol_a2.780                          B2 FeCo volume scan a=2.780 A
+  Run_12_B2FeCo_vol_a2.820                          B2 FeCo volume scan a=2.820 A
+  Run_13_B2FeCo_vol_a2.850                          B2 FeCo volume scan a=2.850 A
+  Run_14_B2FeCo_vol_a2.857                          B2 FeCo volume scan a=2.857 A
+  Run_15_B2FeCo_vol_a2.880                          B2 FeCo volume scan a=2.880 A
+  Run_16_B2FeCo_vol_a2.910                          B2 FeCo volume scan a=2.910 A
+  Run_17_B2FeCo_vol_a2.940                          B2 FeCo volume scan a=2.940 A
+  Run_18_B2FeCo_MAE_001                             B2 FeCo MAE M||[001]
+  Run_19_B2FeCo_MAE_100                             B2 FeCo MAE M||[100]
+  Run_20_B2FeCo_Jij_FeFe                            B2 FeCo four-state Jij_FeFe (4 subfolders)
+  Run_21_B2FeCo_Jij_FeCo                            B2 FeCo four-state Jij_FeCo (4 subfolders)
+  Run_22_B2FeCo_Jij_CoCo                            B2 FeCo four-state Jij_CoCo (4 subfolders)
+  Run_23_L12Fe3Co_vol_a3.450                        L1_2 Fe3Co volume scan a=3.450 A
+  Run_24_L12Fe3Co_vol_a3.520                        L1_2 Fe3Co volume scan a=3.520 A
+  Run_25_L12Fe3Co_vol_a3.580                        L1_2 Fe3Co volume scan a=3.580 A
+  Run_26_L12Fe3Co_vol_a3.620                        L1_2 Fe3Co volume scan a=3.620 A
+  Run_27_L12Fe3Co_vol_a3.660                        L1_2 Fe3Co volume scan a=3.660 A
+  Run_28_L12Fe3Co_vol_a3.700                        L1_2 Fe3Co volume scan a=3.700 A
+  Run_29_L12Fe3Co_vol_a3.740                        L1_2 Fe3Co volume scan a=3.740 A
+  Run_30_L12Fe3Co_MAE_001                           L1_2 Fe3Co MAE M||[001]
+  Run_31_L12Fe3Co_MAE_100                           L1_2 Fe3Co MAE M||[100]
+  Run_32_L12Fe3Co_Jij_FeFe                          L1_2 Fe3Co four-state Jij_FeFe (4 subfolders)
+  Run_33_L12Fe3Co_Jij_FeCo                          L1_2 Fe3Co four-state Jij_FeCo (4 subfolders)
+  Run_34_L12FeCo3_vol_a3.420                        L1_2 FeCo3 volume scan a=3.420 A
+  Run_35_L12FeCo3_vol_a3.480                        L1_2 FeCo3 volume scan a=3.480 A
+  Run_36_L12FeCo3_vol_a3.540                        L1_2 FeCo3 volume scan a=3.540 A
+  Run_37_L12FeCo3_vol_a3.580                        L1_2 FeCo3 volume scan a=3.580 A
+  Run_38_L12FeCo3_vol_a3.620                        L1_2 FeCo3 volume scan a=3.620 A
+  Run_39_L12FeCo3_vol_a3.660                        L1_2 FeCo3 volume scan a=3.660 A
+  Run_40_L12FeCo3_vol_a3.700                        L1_2 FeCo3 volume scan a=3.700 A
+  Run_41_L12FeCo3_MAE_001                           L1_2 FeCo3 MAE M||[001]
+  Run_42_L12FeCo3_MAE_100                           L1_2 FeCo3 MAE M||[100]
+  Run_43_L12FeCo3_Jij_FeCo                          L1_2 FeCo3 four-state Jij_FeCo (4 subfolders)
+  Run_44_L12FeCo3_Jij_CoCo                          L1_2 FeCo3 four-state Jij_CoCo (4 subfolders)

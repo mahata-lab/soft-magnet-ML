@@ -1,0 +1,7 @@
+target,model,validation_r2,validation_mae,n_inner_train,n_validation
+Curie(TC) (K),RF_regularized,0.5195719884740337,147.01731471326207,1153,202
+Curie(TC) (K),ExtraTrees_regularized,0.5007181824701474,144.7110735020612,1153,202
+Curie(TC) (K),XGB_regularized,0.4562726834919585,166.30047157476446,1153,202
+Coercivity (Oe),RF_regularized,0.6288204937864008,0.66279094381109,1153,202
+Coercivity (Oe),ExtraTrees_regularized,0.6489018862505402,0.6309869522679272,1153,202
+Coercivity (Oe),XGB_regularized,0.5250811864295851,0.7652019949938024,1153,202

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="695.16pt" height="341.496pt" viewBox="0 0 695.16 341.496" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:c2pa="http://c2pa.org/manifest">
+ <metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3MTQwZjk5Zi03ZjdlLTRiNTgtYTNhYy0wYWU4NzY2N2NmYjkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMT1rqDYPR0SEe2zjXFatXEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1YTJkNGVlNy1kZjM4LTQ1MWEtYjJjNi0wMWE3MTUzYzMxYTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNof25x6EUSbWHiG1I9BOMJcwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggnGhVo+vb2WMvqNQmLPY1twUrCDcvV4aEE0dK99R8/mKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEC4kzyXDEQUKCUZVubM60wAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIDNOduIWXooJZ4pwcC0f7JRgnvobAkHgctUOgtN0DLjMZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF/Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjcxNDBmOTlmLTdmN2UtNGI1OC1hM2FjLTBhZTg3NjY3Y2ZiOS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjljYjBmZjQyLWJmYTMtNGQzZS1iYWE2LWI1MTYzNjA2NDdjM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCcaFWj69vZYy+o1CYs9jW3BSsINy9XhoQTR0r31Hz+YqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg7Tv+dWzO+7SJhZYcfSJvzb8uFBiqNCRi9xLVskehDGSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg0efRUvVABFrYXmQrrj1Kyf83CFK/THTw/nLU3liWBx50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAyS+orsXlMWgY9LFq4Zz4X9Hzpz4IeePbwBY3HktXzwflVnQW65OhrSIqE9a6B/rhpuEKc8CdebK5EYr9o92gc=</c2pa:manifest>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-25T18:07:15.910627</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 341.496 
+L 695.16 341.496 
+L 695.16 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 18.579869 155.277243 
+L 166.518161 155.277243 
+Q 169.769552 155.277243 169.769552 151.74107 
+L 169.769552 45.655881 
+Q 169.769552 42.119708 166.518161 42.119708 
+L 18.579869 42.119708 
+Q 15.328478 42.119708 15.328478 45.655881 
+L 15.328478 151.74107 
+Q 15.328478 155.277243 18.579869 155.277243 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #ebf2fa; stroke: #1965b0; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 187.245779 155.277243 
+L 335.184072 155.277243 
+Q 338.435463 155.277243 338.435463 151.74107 
+L 338.435463 45.655881 
+Q 338.435463 42.119708 335.184072 42.119708 
+L 187.245779 42.119708 
+Q 183.994388 42.119708 183.994388 45.655881 
+L 183.994388 151.74107 
+Q 183.994388 155.277243 187.245779 155.277243 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #ebf2fa; stroke: #1965b0; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 355.91169 155.277243 
+L 503.849982 155.277243 
+Q 507.101373 155.277243 507.101373 151.74107 
+L 507.101373 45.655881 
+Q 507.101373 42.119708 503.849982 42.119708 
+L 355.91169 42.119708 
+Q 352.660299 42.119708 352.660299 45.655881 
+L 352.660299 151.74107 
+Q 352.660299 155.277243 355.91169 155.277243 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #ebf2fa; stroke: #1965b0; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 524.5776 155.277243 
+L 672.515893 155.277243 
+Q 675.767284 155.277243 675.767284 151.74107 
+L 675.767284 45.655881 
+Q 675.767284 42.119708 672.515893 42.119708 
+L 524.5776 42.119708 
+Q 521.326209 42.119708 521.326209 45.655881 
+L 521.326209 151.74107 
+Q 521.326209 155.277243 524.5776 155.277243 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #ebf2fa; stroke: #1965b0; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 18.579869 307.774703 
+L 166.518161 307.774703 
+Q 169.769552 307.774703 169.769552 304.23853 
+L 169.769552 198.153341 
+Q 169.769552 194.617168 166.518161 194.617168 
+L 18.579869 194.617168 
+Q 15.328478 194.617168 15.328478 198.153341 
+L 15.328478 304.23853 
+Q 15.328478 307.774703 18.579869 307.774703 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #f5f1e8; stroke: #8a7446; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 187.245779 307.774703 
+L 335.184072 307.774703 
+Q 338.435463 307.774703 338.435463 304.23853 
+L 338.435463 198.153341 
+Q 338.435463 194.617168 335.184072 194.617168 
+L 187.245779 194.617168 
+Q 183.994388 194.617168 183.994388 198.153341 
+L 183.994388 304.23853 
+Q 183.994388 307.774703 187.245779 307.774703 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #f5f1e8; stroke: #8a7446; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 355.91169 307.774703 
+L 503.849982 307.774703 
+Q 507.101373 307.774703 507.101373 304.23853 
+L 507.101373 198.153341 
+Q 507.101373 194.617168 503.849982 194.617168 
+L 355.91169 194.617168 
+Q 352.660299 194.617168 352.660299 198.153341 
+L 352.660299 304.23853 
+Q 352.660299 307.774703 355.91169 307.774703 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #f5f1e8; stroke: #8a7446; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 524.5776 307.774703 
+L 672.515893 307.774703 
+Q 675.767284 307.774703 675.767284 304.23853 
+L 675.767284 198.153341 
+Q 675.767284 194.617168 672.515893 194.617168 
+L 524.5776 194.617168 
+Q 521.326209 194.617168 521.326209 198.153341 
+L 521.326209 304.23853 
+Q 521.326209 307.774703 524.5776 307.774703 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #e7f4ef; stroke: #009e73; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 167.737433 98.698476 
+Q 175.86591 98.698476 182.652747 98.698476 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 177.852747 96.298476 
+L 182.652747 98.698476 
+L 177.852747 101.098476 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #3a3a3a; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 336.403343 98.698476 
+Q 344.531821 98.698476 351.318658 98.698476 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 346.518658 96.298476 
+L 351.318658 98.698476 
+L 346.518658 101.098476 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #3a3a3a; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 505.069254 98.698476 
+Q 513.197731 98.698476 519.984568 98.698476 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 515.184568 96.298476 
+L 519.984568 98.698476 
+L 515.184568 101.098476 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #3a3a3a; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 167.737433 251.195935 
+Q 175.86591 251.195935 182.652747 251.195935 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #8a7446; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 177.852747 248.795935 
+L 182.652747 251.195935 
+L 177.852747 253.595935 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #8a7446; stroke: #8a7446; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 336.403343 251.195935 
+Q 344.531821 251.195935 351.318658 251.195935 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #8a7446; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 346.518658 248.795935 
+L 351.318658 251.195935 
+L 346.518658 253.595935 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #8a7446; stroke: #8a7446; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 598.546746 154.3932 
+Q 598.546746 174.505184 598.546746 193.275527 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 600.946746 188.475527 
+L 598.546746 193.275527 
+L 596.146746 188.475527 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #3a3a3a; stroke: #3a3a3a; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 505.069254 251.195935 
+Q 513.197731 251.195935 519.984568 251.195935 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke-dasharray: 3.6,2.4; stroke-dashoffset: 0; stroke: #8a7446; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 515.184568 248.795935 
+L 519.984568 251.195935 
+L 515.184568 253.595935 
+z
+" clip-path="url(#pa326a3f931)" style="fill: #8a7446; stroke-dasharray: 3.6,2.4; stroke-dashoffset: 0; stroke: #8a7446; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 9.232119 32.395232 
+L 679.831522 32.395232 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #1965b0; stroke-opacity: 0.35; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 9.232119 185.776735 
+L 679.831522 185.776735 
+" clip-path="url(#pa326a3f931)" style="fill: none; stroke: #8a7446; stroke-opacity: 0.35; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14477e" x="23.863379" y="57.590465" transform="rotate(-0 23.863379 57.590465)">1. Compiled data</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(23.863379 77.461754)">33,916 source records</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(23.863379 88.658192)">1,736 encoded, 1,713 retained</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(23.863379 99.85463)">1,058 distinct compositions</text>
+   </g>
+   <g id="text_3">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(23.863379 126.698723)">duplicates and a zero-density record</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(23.863379 136.008895)">removed; magnetic-class labels</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(23.863379 145.319067)">excluded</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14477e" x="192.52929" y="57.590465" transform="rotate(-0 192.52929 57.590465)">2. Descriptors</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(192.52929 77.461754)">77 elemental fractions</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(192.52929 88.658192)">146 weighted elemental</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(192.52929 99.85463)">statistics</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(192.52929 111.051068)">mixing and mismatch terms</text>
+   </g>
+   <g id="text_6">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(192.52929 126.698723)">no processing or microstructure</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(192.52929 136.008895)">variable is available in the source</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(192.52929 145.319067)">file</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14477e" x="361.1952" y="57.590465" transform="rotate(-0 361.1952 57.590465)">3. Leakage-controlled fit</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(361.1952 77.461754)">composition-grouped splits</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(361.1952 88.658192)">20 repeats, nested selection of</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(361.1952 99.85463)">descriptor set and learner</text>
+   </g>
+   <g id="text_9">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(361.1952 136.008895)">the outer test never informs the</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(361.1952 145.319067)">choice of features, model or interval</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14477e" x="529.86111" y="57.590465" transform="rotate(-0 529.86111 57.590465)">4. Conformal calibration</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(529.86111 77.461754)">90% split-conformal intervals</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(529.86111 88.658192)">from held-out compositions</text>
+   </g>
+   <g id="text_12">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(529.86111 136.008895)">empirical coverage is measured, not</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(529.86111 145.319067)">assumed from tree spread</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b5a33" x="23.863379" y="210.087924" transform="rotate(-0 23.863379 210.087924)">5. Static DFT</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(23.863379 229.959214)">volume scans and moments for</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(23.863379 241.155651)">bcc Fe, B2 FeCo and the two</text>
+    <!-- L1$_2$ phases -->
+    <g style="fill: #1f1f1f" transform="translate(23.863379 252.35402)">
+     <text>
+      <tspan x="0" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">L</tspan>
+      <tspan x="4.874878" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">1</tspan>
+      <tspan x="14.671033" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f"> </tspan>
+      <tspan x="17.452405" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">p</tspan>
+      <tspan x="23.006604" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">h</tspan>
+      <tspan x="28.552258" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">a</tspan>
+      <tspan x="33.914197" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">s</tspan>
+      <tspan x="38.472913" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">e</tspan>
+      <tspan x="43.856213" y="-0.15625" style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f">s</tspan>
+      <tspan x="10.528027" y="1.320312" style="font-size: 6.09px; font-family: 'DejaVu Sans'; fill: #1f1f1f">2</tspan>
+     </text>
+    </g>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(23.863379 263.568129)">three SQS candidate pairs</text>
+   </g>
+   <g id="text_15">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(23.863379 288.506354)">unequal candidate compositions</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(23.863379 297.816526)">prevent a phase-stability assignment</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b5a33" x="192.52929" y="210.087924" transform="rotate(-0 192.52929 210.087924)">6. Spin-orbit and exchange</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(192.52929 229.959214)">orientation energy differences</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(192.52929 241.155651)">audited four-state exchange</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(192.52929 252.352089)">combinations</text>
+   </g>
+   <g id="text_18">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(192.52929 279.196183)">sub-microelectronvolt values are</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(192.52929 288.506354)">numerical diagnostics, not converged</text>
+    <!-- $K_1$ -->
+    <g style="fill: #5e5e5e" transform="translate(192.52929 297.816526)">
+     <text>
+      <tspan x="0" y="-0.171875" style="font-style: oblique; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e">K</tspan>
+      <tspan x="4.918213" y="1.140625" style="font-size: 5.25px; font-family: 'DejaVu Sans'; fill: #5e5e5e">1</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b5a33" x="361.1952" y="210.087924" transform="rotate(-0 361.1952 210.087924)">7. Atomistic spin model</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(361.1952 229.959214)">seven VAMPIRE magnetization</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(361.1952 241.155651)">curves</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(361.1952 252.352089)">threshold crossing temperatures</text>
+   </g>
+   <g id="text_21">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(361.1952 288.506354)">an equilibrium magnetization curve is</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(361.1952 297.816526)">not a coercivity calculation</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 9.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b6b50" x="529.86111" y="210.087924" transform="rotate(-0 529.86111 210.087924)">8. Recipe generator</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(529.86111 229.959214)">20,000 Fe-Co-Ni-Mn-Al-Si points</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(529.86111 241.155651)">interval-robust pass and</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(529.86111 252.352089)">novelty gate</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #1f1f1f" transform="translate(529.86111 263.548527)">ranked recipe list</text>
+   </g>
+   <g id="text_24">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(529.86111 288.506354)">prioritized hypotheses, not validated</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; fill: #5e5e5e" transform="translate(529.86111 297.816526)">soft magnetic materials</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14477e" x="605.049528" y="181.81969" transform="rotate(-0 605.049528 181.81969)">calibrated models</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 10.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14477e" x="9.232119" y="24.880865" transform="rotate(-0 9.232119 24.880865)">Statistical branch  —  compiled literature data</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 10.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b5a33" x="9.232119" y="178.262368" transform="rotate(-0 9.232119 178.262368)">Physical branch  —  existing first-principles and atomistic outputs</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa326a3f931">
+   <rect x="7.2" y="7.2" width="680.76" height="327.096"/>
+  </clipPath>
+ </defs>
+</svg>

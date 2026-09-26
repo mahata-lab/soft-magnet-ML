@@ -1,0 +1,33 @@
+{
+  "n_records": 1713,
+  "n_groups": 1058,
+  "seeds": [
+    42,
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "reference_seed": 42,
+  "conformal_level": 0.9,
+  "feature_counts": {
+    "fractions": 79,
+    "physics": 146,
+    "combined": 225
+  },
+  "models": [
+    "RF",
+    "ExtraTrees",
+    "XGB"
+  ],
+  "selection": "highest inner grouped-validation R2; outer test never used",
+  "python": "3.11.15",
+  "sklearn": "1.8.0",
+  "xgboost": "3.2.0"
+}

@@ -1,0 +1,151 @@
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119112] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119114] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119108] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119107] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119110] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119116] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119105] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119106] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[student3-ThinkStation-P3-Tower:119141] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119130] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119139] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119137] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119143] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119146] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119145] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+[student3-ThinkStation-P3-Tower:119126] Error: ../../../../../ompi/mca/coll/hcoll/coll_hcoll_module.c:310 - mca_coll_hcoll_comm_query() Hcol library init failed
+ running   16 mpi-ranks, on    1 nodes
+ distrk:  each k-point on   16 cores,    1 groups
+ distr:  one band on    2 cores,    8 groups
+ vasp.6.5.1 10Mar25 (build Jul 20 2026 11:14:49) complex                         
+ POSCAR found type information on POSCAR FeCo
+ POSCAR found :  2 types and      16 ions
+ scaLAPACK will be used
+ LDA part: xc-table for (Slater+PW92), standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ... GRIDC
+ FFT: planning ... GRID_SOFT
+ FFT: planning ... GRID
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.227709465414E+04    0.22771E+04   -0.76082E+04283864   0.194E+03
+DAV:   2     0.202929707331E+03   -0.20742E+04   -0.19692E+04262144   0.546E+02
+DAV:   3    -0.116468650104E+03   -0.31940E+03   -0.26062E+03263344   0.218E+02
+DAV:   4    -0.138407542085E+03   -0.21939E+02   -0.21118E+02281200   0.651E+01
+DAV:   5    -0.138912953870E+03   -0.50541E+00   -0.50442E+00302704   0.103E+01    0.436E+01
+DAV:   6    -0.124133067180E+03    0.14780E+02   -0.43519E+01279728   0.361E+01    0.235E+01
+DAV:   7    -0.123810645846E+03    0.32242E+00   -0.10643E+01292912   0.170E+01    0.157E+01
+DAV:   8    -0.123809641957E+03    0.10039E-02   -0.10114E+00321800   0.140E+01    0.140E+01
+DAV:   9    -0.123829942618E+03   -0.20301E-01   -0.48151E-01299728   0.119E+01    0.126E+01
+DAV:  10    -0.133315534971E+03   -0.94856E+01   -0.54437E+00282064   0.450E+01    0.408E+01
+DAV:  11    -0.128427786841E+03    0.48877E+01   -0.21291E+00275928   0.235E+01    0.296E+01
+DAV:  12    -0.129553496274E+03   -0.11257E+01   -0.34511E+00294880   0.388E+01    0.356E+01
+DAV:  13    -0.124984149044E+03    0.45693E+01   -0.16220E+00290032   0.242E+01    0.185E+01
+DAV:  14    -0.125974635124E+03   -0.99049E+00   -0.14646E+00332296   0.275E+01    0.242E+01
+DAV:  15    -0.123627407115E+03    0.23472E+01   -0.14286E+00340976   0.264E+01    0.833E+00
+DAV:  16    -0.123664304090E+03   -0.36897E-01   -0.53417E-01335592   0.129E+01    0.781E+00
+DAV:  17    -0.123422972006E+03    0.24133E+00   -0.26825E-01305032   0.981E+00    0.378E+00
+DAV:  18    -0.123472138823E+03   -0.49167E-01   -0.13242E-01333024   0.621E+00    0.450E+00
+DAV:  19    -0.123451588411E+03    0.20550E-01   -0.80867E-02361176   0.552E+00    0.372E+00
+DAV:  20    -0.123458255826E+03   -0.66674E-02   -0.30902E-02308760   0.262E+00    0.375E+00
+DAV:  21    -0.123441996133E+03    0.16260E-01   -0.13993E-02360520   0.191E+00    0.299E+00
+DAV:  22    -0.123439129986E+03    0.28661E-02   -0.16428E-02359464   0.175E+00    0.245E+00
+DAV:  23    -0.123433746516E+03    0.53835E-02   -0.11119E-02327648   0.204E+00    0.199E+00
+DAV:  24    -0.123446439894E+03   -0.12693E-01   -0.38134E-02359504   0.210E+00    0.223E+00
+DAV:  25    -0.123438797939E+03    0.76420E-02   -0.15548E-02369840   0.221E+00    0.157E+00
+DAV:  26    -0.123440354719E+03   -0.15568E-02   -0.39736E-02289376   0.143E+00    0.153E+00
+DAV:  27    -0.123438141328E+03    0.22134E-02   -0.10642E-02277080   0.126E+00    0.119E+00
+DAV:  28    -0.123435310441E+03    0.28309E-02   -0.23504E-02281736   0.102E+00    0.610E-01
+DAV:  29    -0.123434677233E+03    0.63321E-03   -0.58992E-03341136   0.846E-01    0.351E-01
+DAV:  30    -0.123434417375E+03    0.25986E-03   -0.97383E-03286584   0.560E-01    0.212E-01
+DAV:  31    -0.123434770373E+03   -0.35300E-03   -0.30497E-03271704   0.475E-01    0.285E-01
+DAV:  32    -0.123434481534E+03    0.28884E-03   -0.49828E-03272688   0.422E-01    0.167E-01
+DAV:  33    -0.123434704113E+03   -0.22258E-03   -0.16125E-03305952   0.247E-01    0.156E-01
+DAV:  34    -0.123434583368E+03    0.12074E-03   -0.36300E-03272888   0.256E-01    0.129E-01
+DAV:  35    -0.123434611448E+03   -0.28080E-04   -0.44497E-03270160   0.280E-01    0.121E-01
+DAV:  36    -0.123434626922E+03   -0.15474E-04   -0.70369E-04276880   0.214E-01    0.119E-01
+DAV:  37    -0.123434531367E+03    0.95555E-04   -0.48057E-03269696   0.239E-01    0.643E-02
+DAV:  38    -0.123434706383E+03   -0.17502E-03   -0.25059E-03269040   0.190E-01    0.790E-02
+DAV:  39    -0.123434729977E+03   -0.23594E-04   -0.71681E-04279848   0.166E-01    0.592E-02
+DAV:  40    -0.123434726985E+03    0.29921E-05   -0.17522E-03265640   0.152E-01    0.589E-02
+DAV:  41    -0.123434801402E+03   -0.74417E-04   -0.23623E-04273576   0.101E-01    0.493E-02
+DAV:  42    -0.123434788145E+03    0.13258E-04   -0.10234E-03264768   0.113E-01    0.258E-02
+DAV:  43    -0.123434803907E+03   -0.15762E-04   -0.92577E-04264184   0.907E-02    0.233E-02
+DAV:  44    -0.123434849346E+03   -0.45439E-04   -0.52131E-04263992   0.780E-02    0.234E-02
+DAV:  45    -0.123434837820E+03    0.11525E-04   -0.77352E-05271728   0.476E-02    0.181E-02
+DAV:  46    -0.123434861382E+03   -0.23561E-04   -0.26500E-04265112   0.531E-02    0.137E-02
+DAV:  47    -0.123434865019E+03   -0.36372E-05   -0.12213E-04264984   0.368E-02    0.124E-02
+DAV:  48    -0.123434873180E+03   -0.81609E-05   -0.36780E-05245328   0.272E-02    0.911E-03
+DAV:  49    -0.123434870934E+03    0.22461E-05   -0.53510E-05244536   0.264E-02    0.852E-03
+DAV:  50    -0.123434875726E+03   -0.47922E-05   -0.30235E-05244144   0.208E-02    0.761E-03
+DAV:  51    -0.123434873006E+03    0.27204E-05   -0.20526E-05243952   0.176E-02    0.679E-03
+DAV:  52    -0.123434874621E+03   -0.16152E-05   -0.42714E-05242936   0.210E-02    0.440E-03
+DAV:  53    -0.123434876041E+03   -0.14204E-05   -0.31542E-05243320   0.183E-02    0.521E-03
+DAV:  54    -0.123434877713E+03   -0.16715E-05   -0.90301E-06242096   0.121E-02    0.442E-03
+DAV:  55    -0.123434877577E+03    0.13551E-06   -0.71661E-06245360   0.104E-02
+   1 F= -.12343488E+03 E0= -.12343838E+03  d E =0.105036E-01  mag=    -0.0001     0.0000    36.2771

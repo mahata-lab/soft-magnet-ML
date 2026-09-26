@@ -1,0 +1,9 @@
+protocol,target,r2,r2_sd,test_rows_sharing_a_training_composition
+notebook_random,Curie(TC) (K),0.7386791444278853,,172
+composition_random,Curie(TC) (K),0.7142556769633256,,150
+grouped_single_v2,Curie(TC) (K),0.3268800441004612,,0
+grouped_repeated_v3,Curie(TC) (K),0.6012808656748596,0.0799684256530499,0
+notebook_random,Coercivity (Oe),0.6711536848206112,,172
+composition_random,Coercivity (Oe),0.6500249176933294,,150
+grouped_single_v2,Coercivity (Oe),0.6484973735743312,,0
+grouped_repeated_v3,Coercivity (Oe),0.588877185833313,0.0685222257675272,0

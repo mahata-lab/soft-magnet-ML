@@ -1,0 +1,4 @@
+Candidate,E_BCC (eV),E_FCC (eV),Delta_E (meV/atom),Ground State
+Cand 1 (Fe46Co34),-0.401328,-0.797325,-24.75,FCC
+Cand 2 (Fe38Co40),-0.395939,-0.785226,-24.33,FCC
+Cand 3 (Fe26Co45),-0.376617,-0.753877,-23.58,FCC

@@ -1,0 +1,19 @@
+{
+  "n_candidates": 20000,
+  "n_point_pass": 31,
+  "n_interval_pass": 0,
+  "n_supported": 0,
+  "conformal_halfwidth_Tc_K": 280.19946497454373,
+  "conformal_halfwidth_log10Hc": 1.1976394778339827,
+  "Hc_interval_factor": 15.763021860100936,
+  "calibration_distance_median": 0.0627185314685315,
+  "calibration_distance_p90": 0.6666666666666666,
+  "feature_set": {
+    "Curie(TC) (K)": "combined",
+    "Coercivity (Oe)": "fractions"
+  },
+  "models": {
+    "Curie(TC) (K)": "ExtraTrees",
+    "Coercivity (Oe)": "ExtraTrees"
+  }
+}

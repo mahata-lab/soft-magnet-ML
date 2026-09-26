@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Leakage-controlled machine learning for soft magnetic alloys, with first-principles bounds"
+message: "If you use this code or data, please cite the associated manuscript."
+type: software
+authors:
+  - name: "Add author list before publishing"
+abstract: >-
+  Composition-grouped machine learning models for Curie temperature and
+  coercivity of soft magnetic alloys, a split-conformal recipe generator,
+  and the VASP calculations that bound how far the recipes may be
+  interpreted physically.
+license: MIT

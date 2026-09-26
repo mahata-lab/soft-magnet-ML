@@ -1,0 +1,7 @@
+POTCAR files are NOT included: they are VASP-licensed and may not be redistributed.
+Regenerate POTCAR by concatenating these PAW datasets from your own VASP distribution,
+in this exact order (species order matches POSCAR):
+
+TITEL  = PAW_PBE Fe_pv 02Aug2007                                                                 
+
+VASP version: vasp.6.5.1 10Mar25 (build May 15 2026 23:14:27) complex                         
